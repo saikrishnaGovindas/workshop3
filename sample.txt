@@ -1,5 +1,6 @@
 this is the git &github workshop
 day1
 day2 
-day3
+day3 workshop3
+bzxxkml;j
 last day 
